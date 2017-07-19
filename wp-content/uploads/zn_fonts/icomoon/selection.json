@@ -1,0 +1,61 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M512 1024c-282.77 0-512-229.23-512-512s229.23-512 512-512c282.77 0 512 229.23 512 512s-229.23 512-512 512zM512 955.733c245.067 0 443.733-198.666 443.733-443.733s-198.666-443.733-443.733-443.733c-245.067 0-443.733 198.666-443.733 443.733s198.666 443.733 443.733 443.733z",
+					"M629.897 501.419l-153.839-96.597c-4.506-2.095-9.498-2.921-14.438-2.389-4.588-0.725-9.25 0.738-12.601 3.955s-5.003 7.816-4.466 12.429v198.315c-0.439 4.589 1.244 9.128 4.57 12.32s7.929 4.69 12.496 4.064c4.941 0.532 9.933-0.294 14.438-2.389l153.839-96.939c6.382-2.957 10.467-9.35 10.467-16.384s-4.085-13.427-10.467-16.384v0z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"grid": 0,
+				"tags": [
+					"circleicon"
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"order": 2,
+				"id": 0,
+				"prevSize": 32,
+				"code": 59648,
+				"name": "circleicon"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 0
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showCodes": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"embed": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 0,
+			"bgColor": 16777215
+		},
+		"historySize": 100
+	}
+}
