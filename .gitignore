@@ -1,0 +1,24 @@
+# WordPress core -- install separately, don't vendor it here.
+/wp-admin/
+/wp-includes/
+/index.php
+/wp-*.php
+!/wp-config-sample.php
+/license.txt
+/readme.html
+/import.log
+
+# Third-party themes and plugins -- install via composer/wp-cli, don't vendor them here.
+/wp-content/themes/*
+!/wp-content/themes/kallyas-child/
+/wp-content/plugins/*
+/wp-content/index.php
+/wp-content/uploads/
+
+# Local environment / secrets
+wp-config.php
+*.sql
+.env
+
+.DS_Store
+Thumbs.db
