@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main, master, chore/docs-tests-ci]
+    branches: [main, master, docs-tests-ci]
   pull_request:
     branches: [main, master]
 
